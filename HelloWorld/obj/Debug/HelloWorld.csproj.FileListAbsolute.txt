@@ -1,0 +1,18 @@
+D:\Devmedia\C# 5\Fontes\First Sample\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Devmedia\C# 5\Fontes\First Sample\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Devmedia\C# 5\Fontes\First Sample\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Devmedia\C# 5\Fontes\First Sample\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Devmedia\C# 5\Fontes\First Sample\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Devmedia\C# 5\Fontes\First Sample\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Italo\Downloads\projeto c#\First Sample\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Downloads\projeto c#\First Sample\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\HelloWorld\obj\Debug\HelloWorld.pdb

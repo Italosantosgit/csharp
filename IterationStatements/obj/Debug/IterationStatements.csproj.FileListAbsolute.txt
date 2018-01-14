@@ -1,0 +1,18 @@
+D:\Devmedia\C# 5\Fontes\First Sample\IterationStatements\bin\Debug\IterationStatements.exe.config
+D:\Devmedia\C# 5\Fontes\First Sample\IterationStatements\bin\Debug\IterationStatements.exe
+D:\Devmedia\C# 5\Fontes\First Sample\IterationStatements\bin\Debug\IterationStatements.pdb
+D:\Devmedia\C# 5\Fontes\First Sample\IterationStatements\obj\Debug\IterationStatements.csprojResolveAssemblyReference.cache
+D:\Devmedia\C# 5\Fontes\First Sample\IterationStatements\obj\Debug\IterationStatements.exe
+D:\Devmedia\C# 5\Fontes\First Sample\IterationStatements\obj\Debug\IterationStatements.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\IterationStatements\bin\Debug\IterationStatements.exe.config
+C:\Users\Italo\Downloads\projeto c#\First Sample\IterationStatements\bin\Debug\IterationStatements.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\IterationStatements\bin\Debug\IterationStatements.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\IterationStatements\obj\Debug\IterationStatements.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Downloads\projeto c#\First Sample\IterationStatements\obj\Debug\IterationStatements.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\IterationStatements\obj\Debug\IterationStatements.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\IterationStatements\bin\Debug\IterationStatements.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\IterationStatements\bin\Debug\IterationStatements.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\IterationStatements\bin\Debug\IterationStatements.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\IterationStatements\obj\Debug\IterationStatements.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\IterationStatements\obj\Debug\IterationStatements.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\IterationStatements\obj\Debug\IterationStatements.pdb

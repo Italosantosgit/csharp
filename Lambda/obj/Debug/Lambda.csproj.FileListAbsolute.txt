@@ -1,0 +1,6 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Lambda\bin\Debug\Lambda.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Lambda\obj\Debug\Lambda.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Lambda\obj\Debug\Lambda.pdb

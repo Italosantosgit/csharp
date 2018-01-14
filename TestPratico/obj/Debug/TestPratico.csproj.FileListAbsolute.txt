@@ -1,0 +1,6 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\TestPratico\bin\Debug\TestPratico.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\TestPratico\obj\Debug\TestPratico.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\TestPratico\bin\Debug\TestPratico.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\TestPratico\bin\Debug\TestPratico.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\TestPratico\obj\Debug\TestPratico.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\TestPratico\obj\Debug\TestPratico.pdb

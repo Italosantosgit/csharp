@@ -1,0 +1,18 @@
+D:\Devmedia\C# 5\Fontes\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe.config
+D:\Devmedia\C# 5\Fontes\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe
+D:\Devmedia\C# 5\Fontes\First Sample\ForeachStatement\bin\Debug\ForeachStatement.pdb
+D:\Devmedia\C# 5\Fontes\First Sample\ForeachStatement\obj\Debug\ForeachStatement.csprojResolveAssemblyReference.cache
+D:\Devmedia\C# 5\Fontes\First Sample\ForeachStatement\obj\Debug\ForeachStatement.exe
+D:\Devmedia\C# 5\Fontes\First Sample\ForeachStatement\obj\Debug\ForeachStatement.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe.config
+C:\Users\Italo\Downloads\projeto c#\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\ForeachStatement\bin\Debug\ForeachStatement.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\ForeachStatement\obj\Debug\ForeachStatement.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Downloads\projeto c#\First Sample\ForeachStatement\obj\Debug\ForeachStatement.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\ForeachStatement\obj\Debug\ForeachStatement.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\ForeachStatement\bin\Debug\ForeachStatement.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\ForeachStatement\bin\Debug\ForeachStatement.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\ForeachStatement\obj\Debug\ForeachStatement.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\ForeachStatement\obj\Debug\ForeachStatement.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\ForeachStatement\obj\Debug\ForeachStatement.pdb

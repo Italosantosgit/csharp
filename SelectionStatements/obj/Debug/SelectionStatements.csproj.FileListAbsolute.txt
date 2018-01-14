@@ -1,0 +1,18 @@
+D:\Devmedia\C# 5\Fontes\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe.config
+D:\Devmedia\C# 5\Fontes\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe
+D:\Devmedia\C# 5\Fontes\First Sample\SelectionStatements\bin\Debug\SelectionStatements.pdb
+D:\Devmedia\C# 5\Fontes\First Sample\SelectionStatements\obj\Debug\SelectionStatements.csprojResolveAssemblyReference.cache
+D:\Devmedia\C# 5\Fontes\First Sample\SelectionStatements\obj\Debug\SelectionStatements.exe
+D:\Devmedia\C# 5\Fontes\First Sample\SelectionStatements\obj\Debug\SelectionStatements.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe.config
+C:\Users\Italo\Downloads\projeto c#\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\SelectionStatements\bin\Debug\SelectionStatements.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\SelectionStatements\obj\Debug\SelectionStatements.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Downloads\projeto c#\First Sample\SelectionStatements\obj\Debug\SelectionStatements.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\SelectionStatements\obj\Debug\SelectionStatements.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\SelectionStatements\obj\Debug\SelectionStatements.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\SelectionStatements\obj\Debug\SelectionStatements.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\SelectionStatements\bin\Debug\SelectionStatements.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\SelectionStatements\bin\Debug\SelectionStatements.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\SelectionStatements\obj\Debug\SelectionStatements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Colletion\bin\Debug\Colletion.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Colletion\obj\Debug\Colletion.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Colletion\bin\Debug\Colletion.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Colletion\bin\Debug\Colletion.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Colletion\obj\Debug\Colletion.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Colletion\obj\Debug\Colletion.pdb

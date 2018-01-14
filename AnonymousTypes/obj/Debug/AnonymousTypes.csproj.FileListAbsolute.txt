@@ -1,0 +1,18 @@
+D:\Devmedia\C# 5\Fontes\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\Devmedia\C# 5\Fontes\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\Devmedia\C# 5\Fontes\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\Devmedia\C# 5\Fontes\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
+D:\Devmedia\C# 5\Fontes\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\Devmedia\C# 5\Fontes\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\Users\Italo\Downloads\projeto c#\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Users\Italo\Downloads\projeto c#\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Downloads\projeto c#\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\Users\Italo\Downloads\projeto c#\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

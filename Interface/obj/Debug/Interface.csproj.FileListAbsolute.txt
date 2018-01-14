@@ -1,0 +1,5 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Interface\bin\Debug\Interface.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Interface\bin\Debug\Interface.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Interface\bin\Debug\Interface.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Interface\obj\Debug\Interface.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\First Sample\Interface\obj\Debug\Interface.pdb
